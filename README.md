@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed and set up:
 1.  **Clone the repository:**
     ```bash
     git clone <your-repository-url>
-    cd perspective-analysis-app
+    cd Use-Case-Cyberbullying-Detection-App
     ```
 
 2.  **Set up the Backend:**
