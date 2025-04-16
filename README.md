@@ -46,6 +46,7 @@ Before you begin, ensure you have the following installed and set up:
     ```bash
     cd backend
     npm install
+    npm install @google/generative-ai
     ```
     * Create a `.env` file in the `backend` directory:
         ```
