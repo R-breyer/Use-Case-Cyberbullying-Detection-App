@@ -51,7 +51,7 @@ function App() {
         THREAT: "Contenu perçu comme une menace.",
         IDENTITY_ATTACK: "Attaque ciblée contre une identité (genre, origine, etc.).",
         FLIRTATION: "Contenu à connotation romantique ou séductrice.",
-        SEXUALLY_EXPLICIT: "Contenu sexuellement explicite."©
+        SEXUALLY_EXPLICIT: "Contenu sexuellement explicite."
     };
 
     return (
