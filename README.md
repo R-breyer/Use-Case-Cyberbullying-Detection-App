@@ -55,6 +55,7 @@ Before you begin, ensure you have the following installed and set up:
     * Add your Perspective API key to the `.env` file:
         ```env
         PERSPECTIVE_API_KEY=YOUR_ACTUAL_API_KEY_HERE
+        GEMINI_API_KEY=YOUR_ACTUAL_API_KEY_HERE
         ```
     * **Important Security Note:** Ensure the `.env` file is listed in your `.gitignore` file (create one in the `backend` directory if it doesn't exist) to prevent accidentally committing your secret key.
         ```gitignore
