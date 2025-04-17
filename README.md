@@ -1,4 +1,4 @@
-# Use-Case-Cyberbullying-Detection-App
+# BullyWatch - Cyberbullying detection
 
 # Text Analysis App with Perspective API
 
