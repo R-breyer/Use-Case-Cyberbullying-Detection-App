@@ -107,9 +107,4 @@ You need to run both the backend and frontend servers concurrently.
 * **Privacy:** Be mindful of privacy concerns when analyzing text, especially if it contains personal information. Ensure compliance with relevant data protection regulations.
 * **Development Status:** This is a basic implementation. For production use, consider enhancements like more robust error handling, improved UI/UX, potential rate limiting on the backend, and deployment strategies.
 
-## License
 
-[Optional: Add your chosen license here. MIT is common for open-source projects.]
-
-Example:
-This project is licensed under the MIT License - see the LICENSE.md file for details.
